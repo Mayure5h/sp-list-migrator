@@ -1,4 +1,3 @@
-```markdown
 # SharePoint List Migrator (Browser Console Script)
 
 A standalone JavaScript script to export list schemas (columns, views, lookup
